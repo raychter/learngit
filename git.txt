@@ -1,2 +1,2 @@
 Git is a VCS.
-Git is free.
+Git is a free software.
